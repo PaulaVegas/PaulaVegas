@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulavegas" alt="paulavegas" /></a> </p>
 
-- 🌱 I’m currently learning **JS, React and Node**
+- 🌱 I’m currently learning **JS, Express and Node**
 
 - 📫 How to reach me **mv.paula@gmail.com**
 
