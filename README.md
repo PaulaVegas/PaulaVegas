@@ -18,10 +18,10 @@
 </div>
 
 <div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulavegas&show_icons=true&locale=en&layout=compact" alt="paulavegas" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulavegas&show_icons=true&theme=transparent&locale=en&layout=donut-vertical" alt="paulavegas" /></p>
 </div>
 <div>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=paulavegas&show_icons=true&locale=en" alt="paulavegas" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=paulavegas&show_icons=true&theme=transparent&locale=en" alt="paulavegas" /></p>
 </div>
 <div>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulavegas&" alt="paulavegas" /></p>
