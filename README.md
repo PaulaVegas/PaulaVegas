@@ -23,8 +23,3 @@
 <div>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=paulavegas&show_icons=true&theme=transparent&locale=en" alt="paulavegas" /></p>
 </div>
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulavegas&show_icons=true&locale=en" alt="paulavegas" /></p>
-</div>
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulavegas&" alt="paulavegas" /></p>
